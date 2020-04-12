@@ -1,0 +1,16 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 480px;
+  width: 640px;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: Menlo, monospace;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: Menlo, monospace;
+}
